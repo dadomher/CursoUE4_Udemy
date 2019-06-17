@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{77145dd2-eaea-48d9-bf12-ef2248ee6b64}">
+        <property name="assetPath">
+            <value>440439__cribbler__keys-pickup-5.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dcc16fc0-062e-41ec-8804-1a26613eda11}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{910b139f-78f8-42b2-a968-e63b4af1dd10}">
+        <property name="assetPath">
+            <value>wind_howling_c.WAV</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>5.04</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dcc16fc0-062e-41ec-8804-1a26613eda11}</destination>
+        </relationship>
+    </object>
+</objects>
